@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
   <a href="https://ariet.site">
-    <img src="assets/header.svg" alt="Ariet - AI & Automation Developer" width="100%">
+    <img src="https://raw.githubusercontent.com/Archezxxx/Archezxxx/main/assets/header.svg" alt="Ariet - AI & Automation Developer" width="100%">
   </a>
 
   <br/><br/>
