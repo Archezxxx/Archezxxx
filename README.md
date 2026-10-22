@@ -36,7 +36,7 @@
 
 ### 🌟 About Me
 
-I am a 17-year-old software developer, AI engineer, and tech entrepreneur from **Bishkek, Kyrgyzstan 🇰🇬** with **3+ years** of hands-on engineering experience.
+I am a 16-year-old software developer, AI engineer, and tech entrepreneur from **Bishkek, Kyrgyzstan 🇰🇬** with **3+ years** of hands-on engineering experience.
 
 - 🔭 **What I build:** Production Computer Vision pipelines, OCR automation, proctored examination platforms, and scalable web apps.
 - 🤖 **AI-Native Engineering:** I integrate cutting-edge agentic workflows (**Antigravity**, **Claude Code**, **Codex**, **n8n**) into my daily development routine to prototype, build, and debug complex architectures with maximum velocity.
